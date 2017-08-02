@@ -5,4 +5,3 @@ portainer-checksum.txt
 api/cmd/portainer/portainer*
 .tmp
 userdata
-/gruntfile.js
